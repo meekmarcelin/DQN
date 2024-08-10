@@ -1,7 +1,11 @@
 # DQN-Based Car Driving Project
 
 This project implements a Deep Q-Network (DQN) algorithm to train an agent to navigate and drive a car in a simulated environment. The agent learns to make decisions based on the visual inputs from the car's camera, with the goal of maximizing the reward (e.g., reaching a destination, avoiding obstacles, maintaining speed).
+
+
 Video Demonstration
+
+
 Link to video: https://www.loom.com/share/c791b4d39bb34b778232fb46188c7f59?sid=9fc265b9-2530-4080-a79f-0553d83012c2
 
 ## Project Structure
