@@ -11,8 +11,6 @@ Link to video: https://www.loom.com/share/c791b4d39bb34b778232fb46188c7f59?sid=9
 ## Project Structure
 
 The project is organized into the following directories and files:
-Okay, got it. Here's a more specific README.md file for your DQN-based car driving project:
-markdownCopy# DQN-Based Car Driving Project
 
 This project implements a Deep Q-Network (DQN) algorithm to train an agent to navigate and drive a car in a simulated environment. The agent learns to make decisions based on the visual inputs from the car's camera, with the goal of maximizing the reward (e.g., reaching a destination, avoiding obstacles, maintaining speed).
 
